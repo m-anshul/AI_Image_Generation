@@ -59,7 +59,6 @@ This project is an AI Image Generation application built using the MERN (MongoDB
      cd server
      npm start
 
-   ```bash
      cd client
      npm start
 
